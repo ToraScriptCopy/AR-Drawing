@@ -2,7 +2,7 @@
 
 An ad-free, privacy-respecting, and lightweight camera overlay application designed for effortless tracing, sketching, and physical drawing.
 
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-Clean-brightgreen?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/d1b0acb828aace34c9cbd3c0f1b15bc34d3020759bda9f9f4f108a3ebbb69a38/behavior)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-Clean-brightgreen?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/d1b0acb828aace34c9cbd3c0f1b15bc34d3020759bda9f9f4f108a3ebbb69a38/behavior) [![GitHub](https://img.shields.io/badge/GitHub-Releases-blue?style=for-the-badge&logo=github)](https://github.com/ToraScriptCopy/AR-Drawing/releases/tag/Versions)
 ## **The Problem with Play Store Alternatives**
 
 Most "AR Drawing" applications currently available on the Google Play Store share the same fundamental flaws:
